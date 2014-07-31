@@ -6,10 +6,20 @@ Built with LibGDX ( http://libgdx.com )
 As of right now the UI looks horrible. I will try to improve it, watch for updates...
 
 # Usage #
-Then run the batch/shell files in dist/ or import into eclipse and build/run from source.
+Then run the batch/shell files in dist/ or import into Eclipse and build/run from source.
 If running from source, the main class is zove.koth.dogfight.desktop.DesktopLauncher
 Windows users: You must have java in your PATH environment variable
 Linux users: I haven't tested my shell script and I'm not good at writing them so correct the shell script if something is wrong
+
+# Importing into Eclipse #
+Create a new LibGDX project with the LibGDX setup UI. Use:
+Name: dogfight-visualizer
+Package: zove.koth.dogfight
+Game Class: DogfightVisualizer
+Sub Projects: Desktop only
+Extensions: None
+Then in the advanced section check "Generate Eclipse project files"
+Hit generate, then clone this repo in
 
 # To update the controller source #
 I will try to update it myself based on new controller versions (if any)

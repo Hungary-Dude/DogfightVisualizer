@@ -6,8 +6,8 @@
 hs_err_pid*
 
 ## Eclipse
-#.classpath
-#.project
+.classpath
+.project
 .metadata
 **/bin/
 tmp/
@@ -23,5 +23,9 @@ local.properties
 
 ## Gradle
 
-#.gradle
+.gradle
 build/
+
+## Model files
+
+core/model_files/
