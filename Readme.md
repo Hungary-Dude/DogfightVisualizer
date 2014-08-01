@@ -6,7 +6,7 @@ Built with LibGDX ( http://libgdx.com )
 As of right now the UI looks horrible. I will try to improve it, watch for updates...
 
 # Usage #
-Then run the batch/shell files in dist/ or import into Eclipse and build/run from source.
+Run the batch/shell files in dist/
 If running from source, the main class is zove.koth.dogfight.desktop.DesktopLauncher
 Windows users: You must have java in your PATH environment variable
 Linux users: I haven't tested my shell script and I'm not good at writing them so correct the shell script if something is wrong

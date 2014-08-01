@@ -1,2 +1,2 @@
 #!/bin/bash
-java -cp controller-bin/;desktop-1.0.jar zove.koth.dogfight.desktop.DesktopLauncher
+java -cp Planes.jar;desktop-1.0.jar zove.koth.dogfight.desktop.DesktopLauncher
