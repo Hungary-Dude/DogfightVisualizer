@@ -25,6 +25,7 @@ Hit generate, then clone this repo in
 I will try to update it myself based on new controller versions (if any)
 To update yourself, note the following static methods and where they need to be called from (See my modified Controller for examples):
 
+```
 DogfightVisualizer.reportEntries(PlaneControl[] entries) - called from Controller.main() after the array of entries is created 
 DogfightVisualizer.beginMatch(String player1Name, String player2Name, int totalFights) - Called at the top of Controller.matchUp() 
 DogfightVisualizer.newFight(int fightNumber) - Called at the top of Controller.fight() 
@@ -38,3 +39,4 @@ DogfightVisualizer.fightWinner(String winnerName) - Called when the winner of a 
 DogfightVisualizer.matchupEnded(String winnerName) - Called when the winner of a matchup is determined 
 DogfightVisualizer.overallWinner(String winner, int points) - Called after all matchups are complete when an overall winner is determined 
 DogfightVisualizer.reportFinalScore(String name, int score) - Called for each plane after all matchups are complete 
+```
