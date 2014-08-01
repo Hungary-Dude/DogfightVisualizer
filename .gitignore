@@ -1,6 +1,7 @@
 ## Java
 
 *.class
+!dist/controller-bin/*
 *.war
 *.ear
 hs_err_pid*
