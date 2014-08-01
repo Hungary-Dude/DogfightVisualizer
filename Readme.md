@@ -19,6 +19,13 @@ Linux users: I haven't tested my shell script and I'm not good at writing them s
 Clone this repo into your eclipse project and then run `gradlew desktop:run`  
 Hopefully gradle will take care of dependencies...
 
+# Running without importing #
+Copy any plane class files into `dist/`. Then, run `dist/desktop-1.0.jar` with this command:
+
+```
+java -cp your-class-folder/;desktop-1.0.jar;Planes.jar zove.koth.dogfight.desktop.DesktopLauncher package.YourPlaneController1 package.YourPlaneController2 ...
+```
+
 # To update the controller source #
 I will try to update it myself based on new controller versions (if any)
 

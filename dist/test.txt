@@ -23,298 +23,298 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SEU change: false shoot: true
+DumbPlanes's first plane move: direction: SD change: true shoot: false
 
 DumbPlanes's second plane move: direction: SE change: true shoot: false
 
-DumbPlanes's first plane move: direction: NE change: true shoot: false
+DumbPlanes's first plane move: direction: NWD change: true shoot: true
 
-DumbPlanes's second plane move: direction: NE change: true shoot: true
+DumbPlanes's second plane move: direction: NWD change: false shoot: true
 
 
 ROUND 2
 
-DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: S cool down: 1
+DumbPlanes's first plane: dead
 
 DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: SE cool down: 0
 
-DumbPlanes's first plane: x: 12 y: 9 z: 13 direction: NE cool down: 0
+DumbPlanes's first plane: x: 12 y: 7 z: 12 direction: NWD cool down: 1
 
-DumbPlanes's second plane: x: 12 y: 6 z: 13 direction: NE cool down: 1
-
-
-DumbPlanes's first plane move: direction: SU change: true shoot: false
-
-DumbPlanes's second plane move: direction: SED change: true shoot: true
-
-DumbPlanes's first plane move: direction: NED change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: true shoot: false
+DumbPlanes's second plane: x: 12 y: 4 z: 12 direction: N cool down: 1
 
 
-ROUND 3
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's first plane: x: 2 y: 6 z: 2 direction: SU cool down: 0
+DumbPlanes's second plane move: direction: E change: true shoot: false
 
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: x: 11 y: 10 z: 12 direction: NED cool down: 0
-
-DumbPlanes's second plane: x: 11 y: 6 z: 13 direction: N cool down: 0
-
-
-DumbPlanes's first plane move: direction: EU change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: E change: true shoot: false
-
-DumbPlanes's second plane move: direction: NW change: false shoot: true
-
-
-ROUND 4
-
-DumbPlanes's first plane: x: 2 y: 7 z: 3 direction: EU cool down: 0
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: x: 11 y: 11 z: 12 direction: E cool down: 0
-
-DumbPlanes's second plane: x: 10 y: 5 z: 13 direction: N cool down: 1
-
-
-DumbPlanes's first plane move: direction: SU change: true shoot: true
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: E change: true shoot: true
-
-DumbPlanes's second plane move: direction: NED change: false shoot: false
-
-
-ROUND 5
-
-DumbPlanes's first plane: x: 3 y: 7 z: 4 direction: SU cool down: 1
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: x: 11 y: 12 z: 12 direction: E cool down: 1
-
-DumbPlanes's second plane: x: 9 y: 6 z: 12 direction: N cool down: 0
-
-
-DumbPlanes's first plane move: direction: SE change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: E change: true shoot: false
+DumbPlanes's first plane move: direction: WD change: false shoot: false
 
 DumbPlanes's second plane move: direction: NE change: false shoot: false
 
 
-ROUND 6
-
-DumbPlanes's first plane: x: 4 y: 8 z: 4 direction: SE cool down: 0
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: x: 11 y: 13 z: 12 direction: E cool down: 0
-
-DumbPlanes's second plane: x: 8 y: 7 z: 12 direction: N cool down: 0
-
-
-DumbPlanes's first plane move: direction: SU change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: SE change: false shoot: true
-
-DumbPlanes's second plane move: direction: ND change: true shoot: true
-
-
-ROUND 7
-
-DumbPlanes's first plane: x: 5 y: 8 z: 5 direction: SU cool down: 0
-
-DumbPlanes's second plane: dead
+ROUND 3
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 7 y: 7 z: 11 direction: ND cool down: 1
+DumbPlanes's second plane: x: 1 y: 10 z: 0 direction: E cool down: 0
 
+DumbPlanes's first plane: x: 12 y: 6 z: 11 direction: NWD cool down: 0
 
-DumbPlanes's first plane move: direction: SW change: false shoot: true
+DumbPlanes's second plane: x: 11 y: 5 z: 12 direction: N cool down: 0
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: NW change: false shoot: false
+DumbPlanes's second plane move: direction: E change: true shoot: true
 
-
-ROUND 8
-
-DumbPlanes's first plane: x: 6 y: 7 z: 5 direction: SU cool down: 1
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 6 y: 6 z: 11 direction: ND cool down: 0
-
-
-DumbPlanes's first plane move: direction: U change: false shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
+DumbPlanes's first plane move: direction: ND change: false shoot: true
 
 DumbPlanes's second plane move: direction: ND change: false shoot: true
 
 
-ROUND 9
-
-DumbPlanes's first plane: x: 6 y: 7 z: 6 direction: SU cool down: 0
-
-DumbPlanes's second plane: dead
+ROUND 4
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 5 y: 6 z: 10 direction: ND cool down: 1
+DumbPlanes's second plane: x: 1 y: 11 z: 0 direction: E cool down: 1
 
+DumbPlanes's first plane: x: 11 y: 6 z: 10 direction: NWD cool down: 1
 
-DumbPlanes's first plane move: direction: SU change: true shoot: true
+DumbPlanes's second plane: x: 10 y: 5 z: 11 direction: N cool down: 1
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: ND change: false shoot: false
+DumbPlanes's second plane move: direction: NEU change: true shoot: false
+
+DumbPlanes's first plane move: direction: W change: true shoot: false
+
+DumbPlanes's second plane move: direction: NEU change: false shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 0 y: 12 z: 1 direction: NEU cool down: 0
+
+DumbPlanes's first plane: x: 11 y: 5 z: 10 direction: W cool down: 0
+
+DumbPlanes's second plane: x: 9 y: 6 z: 12 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: U change: true shoot: true
+
+DumbPlanes's first plane move: direction: WU change: true shoot: false
+
+DumbPlanes's second plane move: direction: NWD change: false shoot: true
+
+
+ROUND 6
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 0 y: 12 z: 2 direction: U cool down: 1
+
+DumbPlanes's first plane: x: 11 y: 4 z: 11 direction: WU cool down: 0
+
+DumbPlanes's second plane: x: 8 y: 5 z: 11 direction: N cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SU change: true shoot: false
+
+DumbPlanes's first plane move: direction: SU change: false shoot: true
+
+DumbPlanes's second plane move: direction: NED change: true shoot: false
+
+
+ROUND 7
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 1 y: 12 z: 3 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 4 z: 12 direction: WU cool down: 1
+
+DumbPlanes's second plane: x: 7 y: 6 z: 10 direction: NED cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SE change: false shoot: true
+
+DumbPlanes's first plane move: direction: U change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: true
+
+
+ROUND 8
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 2 y: 13 z: 3 direction: SU cool down: 1
+
+DumbPlanes's first plane: x: 12 y: 4 z: 13 direction: WU cool down: 0
+
+DumbPlanes's second plane: x: 6 y: 6 z: 10 direction: N cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SU change: false shoot: false
+
+DumbPlanes's first plane move: direction: W change: true shoot: true
+
+DumbPlanes's second plane move: direction: NWU change: false shoot: false
+
+
+ROUND 9
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 13 z: 4 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 3 z: 13 direction: W cool down: 1
+
+DumbPlanes's second plane: x: 5 y: 5 z: 11 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: WU change: false shoot: false
+
+DumbPlanes's first plane move: direction: SW change: false shoot: false
+
+DumbPlanes's second plane move: direction: NU change: true shoot: true
 
 
 ROUND 10
 
-DumbPlanes's first plane: x: 7 y: 7 z: 7 direction: SU cool down: 1
-
-DumbPlanes's second plane: dead
-
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 4 y: 6 z: 9 direction: ND cool down: 0
+DumbPlanes's second plane: x: 3 y: 12 z: 5 direction: SU cool down: 0
 
+DumbPlanes's first plane: x: 13 y: 2 z: 13 direction: W cool down: 0
 
-DumbPlanes's first plane move: direction: SW change: false shoot: false
+DumbPlanes's second plane: x: 4 y: 5 z: 12 direction: NU cool down: 1
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: NED change: false shoot: true
+DumbPlanes's second plane move: direction: WU change: false shoot: true
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: true shoot: false
 
 
 ROUND 11
 
-DumbPlanes's first plane: x: 8 y: 6 z: 7 direction: SU cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 3 y: 11 z: 6 direction: SU cool down: 1
+
+DumbPlanes's first plane: x: 12 y: 1 z: 12 direction: NWD cool down: 1
+
+DumbPlanes's second plane: x: 3 y: 5 z: 12 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: S change: true shoot: false
+
+DumbPlanes's first plane move: direction: D change: true shoot: false
+
+DumbPlanes's second plane move: direction: ND change: true shoot: true
+
+
+ROUND 12
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 3 y: 7 z: 8 direction: ND cool down: 1
+DumbPlanes's second plane: x: 4 y: 11 z: 6 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 1 z: 11 direction: D cool down: 0
+
+DumbPlanes's second plane: x: 2 y: 5 z: 11 direction: ND cool down: 1
 
 
-DumbPlanes's first plane move: direction: SWU change: false shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: SW change: false shoot: true
+
+DumbPlanes's first plane move: direction: SD change: false shoot: false
+
+DumbPlanes's second plane move: direction: ND change: true shoot: false
+
+
+ROUND 13
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 5 y: 10 z: 6 direction: S cool down: 1
+
+DumbPlanes's first plane: x: 13 y: 1 z: 10 direction: D cool down: 0
+
+DumbPlanes's second plane: x: 1 y: 5 z: 10 direction: ND cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SED change: false shoot: false
+
+DumbPlanes's first plane move: direction: SED change: false shoot: true
+
+DumbPlanes's second plane move: direction: WD change: false shoot: true
+
+
+ROUND 14
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 11 z: 5 direction: S cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 1 y: 4 z: 9 direction: ND cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SD change: true shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
 DumbPlanes's second plane move: direction: NE change: true shoot: false
 
 
-ROUND 12
-
-DumbPlanes's first plane: x: 9 y: 5 z: 8 direction: SU cool down: 1
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 2 y: 8 z: 8 direction: NE cool down: 0
-
-
-DumbPlanes's first plane move: direction: SU change: false shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: ND change: true shoot: true
-
-
-ROUND 13
-
-DumbPlanes's first plane: x: 10 y: 5 z: 9 direction: SU cool down: 0
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 1 y: 8 z: 7 direction: ND cool down: 1
-
-
-DumbPlanes's first plane move: direction: SW change: true shoot: true
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: D change: false shoot: false
-
-
-ROUND 14
-
-DumbPlanes's first plane: x: 11 y: 4 z: 9 direction: SW cool down: 1
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 1 y: 8 z: 6 direction: ND cool down: 0
-
-
-DumbPlanes's first plane move: direction: WU change: false shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: NW change: true shoot: true
-
-
 ROUND 15
 
-DumbPlanes's first plane: x: 11 y: 3 z: 10 direction: SW cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 7 y: 11 z: 4 direction: SD cool down: 0
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 0 y: 7 z: 6 direction: NW cool down: 1
+DumbPlanes's second plane: x: 0 y: 5 z: 9 direction: NE cool down: 0
 
-
-DumbPlanes's first plane move: direction: SWD change: true shoot: true
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: NU change: true shoot: false
+DumbPlanes's second plane move: direction: WD change: true shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: true
 
 
-DumbPlanes's first plane: x: 12 y: 2 z: 9 direction: SWD cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 7 y: 10 z: 3 direction: WD cool down: 1
 
 DumbPlanes's first plane: dead
 
@@ -342,102 +342,202 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SD change: true shoot: false
+DumbPlanes's first plane move: direction: SEU change: false shoot: true
 
-DumbPlanes's second plane move: direction: SWU change: false shoot: false
+DumbPlanes's second plane move: direction: SW change: true shoot: false
 
-DumbPlanes's first plane move: direction: NWD change: false shoot: true
+DumbPlanes's first plane move: direction: NED change: false shoot: true
 
-DumbPlanes's second plane move: direction: NW change: true shoot: true
+DumbPlanes's second plane move: direction: NWD change: true shoot: true
 
 
 ROUND 2
 
-DumbPlanes's first plane: dead
+DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: S cool down: 1
 
-DumbPlanes's second plane: x: 1 y: 7 z: 1 direction: S cool down: 0
+DumbPlanes's second plane: x: 1 y: 7 z: 0 direction: SW cool down: 0
 
-DumbPlanes's first plane: x: 12 y: 7 z: 12 direction: N cool down: 1
+DumbPlanes's first plane: x: 12 y: 9 z: 12 direction: N cool down: 1
 
-DumbPlanes's second plane: x: 12 y: 4 z: 13 direction: NW cool down: 1
+DumbPlanes's second plane: x: 12 y: 4 z: 12 direction: NWD cool down: 1
 
 
-DumbPlanes's first plane move: direction: N change: false shoot: false
+DumbPlanes's first plane move: direction: SW change: true shoot: false
 
-DumbPlanes's second plane move: direction: SE change: true shoot: true
+DumbPlanes's second plane move: direction: W change: false shoot: false
 
-DumbPlanes's first plane move: direction: NU change: false shoot: false
+DumbPlanes's first plane move: direction: NU change: true shoot: false
 
-DumbPlanes's second plane move: direction: NU change: true shoot: false
+DumbPlanes's second plane move: direction: ND change: true shoot: false
 
 
 ROUND 3
 
-DumbPlanes's first plane: dead
+DumbPlanes's first plane: x: 2 y: 5 z: 1 direction: SW cool down: 0
 
-DumbPlanes's second plane: x: 2 y: 8 z: 1 direction: SE cool down: 1
+DumbPlanes's second plane: x: 1 y: 6 z: 0 direction: SW cool down: 0
 
-DumbPlanes's first plane: x: 11 y: 7 z: 13 direction: N cool down: 0
+DumbPlanes's first plane: x: 11 y: 9 z: 13 direction: NU cool down: 0
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 11 y: 4 z: 11 direction: ND cool down: 0
 
 
-DumbPlanes's first plane move: direction: N change: false shoot: false
+DumbPlanes's first plane move: direction: W change: true shoot: true
 
-DumbPlanes's second plane move: direction: SED change: true shoot: false
+DumbPlanes's second plane move: direction: WD change: false shoot: true
 
-DumbPlanes's first plane move: direction: ND change: false shoot: true
+DumbPlanes's first plane move: direction: N change: true shoot: true
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: NWD change: true shoot: true
 
 
 ROUND 4
 
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 3 y: 9 z: 0 direction: SED cool down: 0
-
-DumbPlanes's first plane: x: 10 y: 7 z: 12 direction: N cool down: 1
+DumbPlanes's first plane: x: 2 y: 4 z: 1 direction: W cool down: 1
 
 DumbPlanes's second plane: dead
 
+DumbPlanes's first plane: x: 10 y: 9 z: 13 direction: N cool down: 1
 
-DumbPlanes's first plane move: direction: N change: false shoot: false
+DumbPlanes's second plane: x: 10 y: 3 z: 10 direction: NWD cool down: 1
 
-DumbPlanes's second plane move: direction: S change: false shoot: false
-
-DumbPlanes's first plane move: direction: NW change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-
-ROUND 5
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 4 y: 9 z: 0 direction: SED cool down: 0
-
-DumbPlanes's first plane: x: 9 y: 6 z: 12 direction: NW cool down: 0
-
-DumbPlanes's second plane: dead
-
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: ED change: false shoot: true
 
 DumbPlanes's first plane move: direction: NWU change: false shoot: false
 
 DumbPlanes's second plane move: direction: N change: false shoot: false
 
+DumbPlanes's first plane move: direction: NWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: WD change: true shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: x: 1 y: 3 z: 2 direction: W cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 9 y: 8 z: 12 direction: NWD cool down: 0
+
+DumbPlanes's second plane: x: 10 y: 2 z: 9 direction: WD cool down: 0
+
+
+DumbPlanes's first plane move: direction: NWD change: false shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: W change: false shoot: true
+
+DumbPlanes's second plane move: direction: SWD change: false shoot: true
+
+
+ROUND 6
+
+DumbPlanes's first plane: x: 0 y: 2 z: 1 direction: W cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 9 y: 7 z: 12 direction: NWD cool down: 1
+
+DumbPlanes's second plane: x: 11 y: 1 z: 8 direction: WD cool down: 1
+
+
+DumbPlanes's first plane move: direction: SWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: true shoot: false
+
+DumbPlanes's second plane move: direction: D change: true shoot: false
+
+
+ROUND 7
+
+DumbPlanes's first plane: x: 1 y: 1 z: 0 direction: W cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 8 y: 7 z: 12 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 1 z: 7 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWU change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: NE change: true shoot: true
+
+DumbPlanes's second plane move: direction: D change: false shoot: true
+
+
+ROUND 8
+
+DumbPlanes's first plane: x: 2 y: 0 z: 1 direction: SWU cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 7 y: 8 z: 12 direction: NE cool down: 1
+
+DumbPlanes's second plane: x: 11 y: 1 z: 6 direction: D cool down: 1
+
+
+DumbPlanes's first plane move: direction: S change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: ED change: true shoot: false
+
+DumbPlanes's second plane move: direction: SD change: false shoot: false
+
+
+ROUND 9
+
+DumbPlanes's first plane: x: 3 y: 0 z: 1 direction: S cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 7 y: 9 z: 11 direction: ED cool down: 0
+
+DumbPlanes's second plane: x: 12 y: 1 z: 5 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: SD change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: ND change: false shoot: false
+
+DumbPlanes's second plane move: direction: ED change: false shoot: false
+
+
+ROUND 10
+
+DumbPlanes's first plane: x: 4 y: 0 z: 0 direction: S cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 6 y: 9 z: 10 direction: ED cool down: 0
+
+DumbPlanes's second plane: x: 12 y: 2 z: 4 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWU change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: SD change: true shoot: true
+
+DumbPlanes's second plane move: direction: WD change: true shoot: true
+
 
 DumbPlanes's first plane: dead
 
 DumbPlanes's second plane: dead
 
-DumbPlanes's first plane: x: 8 y: 5 z: 13 direction: NW cool down: 0
+DumbPlanes's first plane: x: 7 y: 9 z: 9 direction: SD cool down: 1
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 12 y: 1 z: 3 direction: WD cool down: 1
 
 
 And that's it, DumbPlanes is out of planes, DumbPlanes Wins
@@ -461,31 +561,31 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SW change: true shoot: true
+DumbPlanes's first plane move: direction: SD change: true shoot: true
 
-DumbPlanes's second plane move: direction: SE change: false shoot: false
+DumbPlanes's second plane move: direction: SWU change: false shoot: true
 
-DumbPlanes's first plane move: direction: NE change: true shoot: false
+DumbPlanes's first plane move: direction: NEU change: false shoot: true
 
-DumbPlanes's second plane move: direction: NU change: true shoot: true
+DumbPlanes's second plane move: direction: ND change: false shoot: false
 
 
 ROUND 2
 
-DumbPlanes's first plane: x: 1 y: 4 z: 0 direction: SW cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: S cool down: 0
+DumbPlanes's second plane: x: 1 y: 7 z: 1 direction: S cool down: 1
 
-DumbPlanes's first plane: x: 12 y: 9 z: 13 direction: NE cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 12 y: 5 z: 12 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: WD change: true shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: SEU change: true shoot: true
+DumbPlanes's second plane move: direction: SEU change: true shoot: false
 
-DumbPlanes's first plane move: direction: ND change: false shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
 DumbPlanes's second plane move: direction: N change: false shoot: false
 
@@ -494,134 +594,334 @@ ROUND 3
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 2 y: 10 z: 1 direction: SEU cool down: 1
+DumbPlanes's second plane: x: 2 y: 8 z: 2 direction: SEU cool down: 0
 
-DumbPlanes's first plane: x: 11 y: 9 z: 12 direction: NE cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 11 y: 5 z: 12 direction: N cool down: 0
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: SU change: false shoot: false
+DumbPlanes's second plane move: direction: E change: false shoot: true
 
-DumbPlanes's first plane move: direction: N change: true shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: ND change: false shoot: true
 
 
 ROUND 4
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 3 y: 10 z: 2 direction: SEU cool down: 0
+DumbPlanes's second plane: x: 2 y: 9 z: 2 direction: SEU cool down: 1
 
-DumbPlanes's first plane: x: 10 y: 9 z: 12 direction: N cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 10 y: 5 z: 11 direction: N cool down: 1
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: SU change: true shoot: true
+DumbPlanes's second plane move: direction: SEU change: false shoot: false
 
-DumbPlanes's first plane move: direction: NU change: true shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: NED change: false shoot: false
 
 
 ROUND 5
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 4 y: 10 z: 3 direction: SU cool down: 1
+DumbPlanes's second plane: x: 3 y: 10 z: 3 direction: SEU cool down: 0
 
-DumbPlanes's first plane: x: 9 y: 9 z: 13 direction: NU cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 9 y: 6 z: 10 direction: N cool down: 0
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: SE change: false shoot: false
+DumbPlanes's second plane move: direction: EU change: false shoot: true
 
-DumbPlanes's first plane move: direction: NW change: false shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: NU change: true shoot: false
 
 
 ROUND 6
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 5 y: 11 z: 3 direction: SU cool down: 0
+DumbPlanes's second plane: x: 3 y: 11 z: 4 direction: SEU cool down: 1
 
-DumbPlanes's first plane: x: 8 y: 8 z: 13 direction: NU cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 8 y: 6 z: 11 direction: NU cool down: 0
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: WU change: true shoot: false
+DumbPlanes's second plane move: direction: SU change: true shoot: false
 
-DumbPlanes's first plane move: direction: N change: false shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: EU change: false shoot: true
 
 
 ROUND 7
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 5 y: 10 z: 4 direction: WU cool down: 0
+DumbPlanes's second plane: x: 4 y: 11 z: 5 direction: SU cool down: 0
 
-DumbPlanes's first plane: x: 7 y: 8 z: 13 direction: NU cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 8 y: 7 z: 12 direction: NU cool down: 1
 
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: U change: false shoot: true
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's second plane move: direction: SW change: false shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NWU change: true shoot: false
 
 
 ROUND 8
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 5 y: 10 z: 5 direction: WU cool down: 1
+DumbPlanes's second plane: x: 5 y: 10 z: 5 direction: SU cool down: 1
 
-DumbPlanes's first plane: x: 6 y: 8 z: 13 direction: NU cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 7 y: 6 z: 13 direction: NWU cool down: 0
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: U change: false shoot: false
+DumbPlanes's second plane move: direction: SU change: true shoot: false
 
-DumbPlanes's first plane move: direction: NWU change: false shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: false
+
+
+ROUND 9
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 10 z: 6 direction: SU cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 6 z: 13 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: U change: true shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NW change: true shoot: true
+
+
+ROUND 10
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 10 z: 7 direction: U cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 5 y: 5 z: 13 direction: NW cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: EU change: false shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NW change: true shoot: false
+
+
+ROUND 11
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 11 z: 8 direction: U cool down: 1
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 4 y: 4 z: 13 direction: NW cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SU change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: ND change: true shoot: false
+
+
+ROUND 12
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 7 y: 11 z: 9 direction: U cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 4 z: 12 direction: ND cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: U change: true shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
 DumbPlanes's second plane move: direction: N change: false shoot: false
 
 
+ROUND 13
+
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 5 y: 10 z: 6 direction: WU cool down: 0
+DumbPlanes's second plane: x: 7 y: 11 z: 10 direction: U cool down: 1
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 2 y: 4 z: 12 direction: ND cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NWU change: true shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: D change: true shoot: true
+
+
+ROUND 14
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 10 z: 11 direction: NWU cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 2 y: 4 z: 11 direction: D cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: U change: true shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SD change: true shoot: false
+
+
+ROUND 15
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 10 z: 12 direction: U cool down: 1
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 4 z: 10 direction: SD cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NEU change: true shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: ED change: true shoot: true
+
+
+ROUND 16
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 5 y: 11 z: 13 direction: NEU cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 5 z: 9 direction: ED cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: E change: true shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SE change: false shoot: false
+
+
+ROUND 17
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 5 y: 12 z: 13 direction: E cool down: 1
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 4 y: 6 z: 9 direction: ED cool down: 0
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SE change: true shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NE change: false shoot: true
+
+
+ROUND 18
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 6 y: 13 z: 13 direction: SE cool down: 0
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 7 z: 9 direction: ED cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SEU change: false shoot: true
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: ED change: false shoot: false
+
 
 DumbPlanes's first plane: dead
 
 DumbPlanes's second plane: dead
 
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 8 z: 8 direction: ED cool down: 0
+
 
 And that's it, DumbPlanes is out of planes, DumbPlanes Wins
 
-SCORE: DumbPlanes: 2 DumbPlanes: 1
+SCORE: DumbPlanes: 1 DumbPlanes: 2
 
 
 FIGHT 4
@@ -640,182 +940,302 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SEU change: false shoot: false
+DumbPlanes's first plane move: direction: SEU change: true shoot: true
 
-DumbPlanes's second plane move: direction: SWU change: false shoot: false
+DumbPlanes's second plane move: direction: SE change: true shoot: false
 
-DumbPlanes's first plane move: direction: N change: false shoot: true
+DumbPlanes's first plane move: direction: NEU change: false shoot: true
 
-DumbPlanes's second plane move: direction: NE change: false shoot: true
+DumbPlanes's second plane move: direction: NW change: false shoot: false
 
 
 ROUND 2
 
-DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: S cool down: 0
+DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: SEU cool down: 1
 
-DumbPlanes's second plane: x: 1 y: 7 z: 1 direction: S cool down: 0
+DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: SE cool down: 0
 
-DumbPlanes's first plane: x: 12 y: 8 z: 13 direction: N cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 12 y: 6 z: 13 direction: N cool down: 1
+DumbPlanes's second plane: x: 12 y: 4 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SU change: false shoot: false
+DumbPlanes's first plane move: direction: U change: false shoot: false
 
-DumbPlanes's second plane move: direction: SWD change: true shoot: true
+DumbPlanes's second plane move: direction: E change: true shoot: true
 
-DumbPlanes's first plane move: direction: NWD change: false shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: ND change: true shoot: false
+DumbPlanes's second plane move: direction: NWD change: false shoot: true
 
 
 ROUND 3
 
-DumbPlanes's first plane: x: 2 y: 6 z: 2 direction: S cool down: 0
+DumbPlanes's first plane: x: 1 y: 6 z: 2 direction: SEU cool down: 0
 
-DumbPlanes's second plane: x: 2 y: 6 z: 0 direction: SWD cool down: 1
+DumbPlanes's second plane: x: 1 y: 10 z: 0 direction: E cool down: 1
 
-DumbPlanes's first plane: x: 11 y: 7 z: 12 direction: N cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 11 y: 6 z: 12 direction: ND cool down: 0
+DumbPlanes's second plane: x: 11 y: 3 z: 12 direction: N cool down: 1
 
 
-DumbPlanes's first plane move: direction: S change: false shoot: true
+DumbPlanes's first plane move: direction: EU change: true shoot: true
 
-DumbPlanes's second plane move: direction: W change: false shoot: false
+DumbPlanes's second plane move: direction: EU change: false shoot: false
 
-DumbPlanes's first plane move: direction: ND change: false shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: N change: false shoot: true
+DumbPlanes's second plane move: direction: ND change: true shoot: false
 
 
 ROUND 4
 
-DumbPlanes's first plane: x: 3 y: 6 z: 2 direction: S cool down: 1
+DumbPlanes's first plane: x: 1 y: 7 z: 3 direction: EU cool down: 1
 
-DumbPlanes's second plane: x: 2 y: 5 z: 0 direction: SWD cool down: 0
+DumbPlanes's second plane: x: 1 y: 11 z: 1 direction: E cool down: 0
 
-DumbPlanes's first plane: x: 10 y: 7 z: 11 direction: N cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 10 y: 6 z: 12 direction: ND cool down: 1
+DumbPlanes's second plane: x: 10 y: 3 z: 11 direction: ND cool down: 0
 
 
-DumbPlanes's first plane move: direction: SWD change: false shoot: false
+DumbPlanes's first plane move: direction: EU change: true shoot: false
 
-DumbPlanes's second plane move: direction: SW change: false shoot: true
+DumbPlanes's second plane move: direction: E change: true shoot: false
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: NWD change: true shoot: false
+DumbPlanes's second plane move: direction: ND change: false shoot: true
 
 
 ROUND 5
 
-DumbPlanes's first plane: x: 4 y: 5 z: 1 direction: S cool down: 0
+DumbPlanes's first plane: x: 1 y: 8 z: 4 direction: EU cool down: 0
 
-DumbPlanes's second plane: x: 3 y: 4 z: 0 direction: SWD cool down: 1
+DumbPlanes's second plane: x: 1 y: 12 z: 1 direction: E cool down: 0
 
-DumbPlanes's first plane: x: 9 y: 7 z: 11 direction: N cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 9 y: 5 z: 11 direction: NWD cool down: 0
+DumbPlanes's second plane: x: 9 y: 3 z: 10 direction: ND cool down: 1
 
 
-DumbPlanes's first plane move: direction: SEU change: false shoot: true
+DumbPlanes's first plane move: direction: NU change: true shoot: true
 
-DumbPlanes's second plane move: direction: SW change: false shoot: false
+DumbPlanes's second plane move: direction: ED change: false shoot: true
 
-DumbPlanes's first plane move: direction: NEU change: true shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: D change: true shoot: false
+DumbPlanes's second plane move: direction: ND change: false shoot: false
 
 
 ROUND 6
 
-DumbPlanes's first plane: x: 5 y: 6 z: 2 direction: S cool down: 1
+DumbPlanes's first plane: x: 0 y: 8 z: 5 direction: NU cool down: 1
 
-DumbPlanes's second plane: x: 4 y: 3 z: 0 direction: SWD cool down: 0
+DumbPlanes's second plane: x: 1 y: 13 z: 0 direction: E cool down: 1
 
-DumbPlanes's first plane: x: 8 y: 8 z: 12 direction: NEU cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 9 y: 5 z: 10 direction: D cool down: 0
+DumbPlanes's second plane: x: 8 y: 3 z: 9 direction: ND cool down: 0
 
-
-DumbPlanes's first plane move: direction: SD change: true shoot: false
-
-DumbPlanes's second plane move: direction: S change: true shoot: true
 
 DumbPlanes's first plane move: direction: EU change: true shoot: false
 
-DumbPlanes's second plane move: direction: SWD change: false shoot: false
+DumbPlanes's second plane move: direction: NE change: true shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: D change: false shoot: true
 
 
 ROUND 7
 
-DumbPlanes's first plane: x: 6 y: 6 z: 1 direction: SD cool down: 0
-
-DumbPlanes's second plane: x: 5 y: 3 z: 0 direction: S cool down: 1
-
-DumbPlanes's first plane: x: 8 y: 9 z: 13 direction: EU cool down: 0
-
-DumbPlanes's second plane: x: 10 y: 4 z: 9 direction: D cool down: 0
-
-
-DumbPlanes's first plane move: direction: SWD change: false shoot: true
-
-DumbPlanes's second plane move: direction: SE change: true shoot: false
-
-DumbPlanes's first plane move: direction: SEU change: false shoot: true
-
-DumbPlanes's second plane move: direction: SD change: true shoot: true
-
-
-ROUND 8
-
-DumbPlanes's first plane: x: 7 y: 5 z: 0 direction: SD cool down: 1
-
-DumbPlanes's second plane: x: 6 y: 4 z: 0 direction: SE cool down: 0
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 11 y: 4 z: 8 direction: SD cool down: 1
-
-
-DumbPlanes's first plane move: direction: ED change: true shoot: false
-
-DumbPlanes's second plane move: direction: S change: true shoot: false
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: SE change: true shoot: false
-
-
-ROUND 9
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 7 y: 4 z: 0 direction: S cool down: 0
-
-DumbPlanes's first plane: dead
-
-DumbPlanes's second plane: x: 12 y: 5 z: 8 direction: SE cool down: 0
-
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: SD change: true shoot: true
-
-DumbPlanes's first plane move: direction: N change: false shoot: false
-
-DumbPlanes's second plane move: direction: SED change: false shoot: true
-
-
-DumbPlanes's first plane: dead
+DumbPlanes's first plane: x: 0 y: 9 z: 6 direction: EU cool down: 0
 
 DumbPlanes's second plane: dead
 
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 13 y: 6 z: 7 direction: SE cool down: 1
+DumbPlanes's second plane: x: 8 y: 3 z: 8 direction: ND cool down: 1
+
+
+DumbPlanes's first plane move: direction: U change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NWD change: false shoot: false
+
+
+ROUND 8
+
+DumbPlanes's first plane: x: 0 y: 9 z: 7 direction: U cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 7 y: 2 z: 7 direction: ND cool down: 0
+
+
+DumbPlanes's first plane move: direction: U change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: D change: true shoot: true
+
+
+ROUND 9
+
+DumbPlanes's first plane: x: 0 y: 9 z: 8 direction: U cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 7 y: 2 z: 6 direction: D cool down: 1
+
+
+DumbPlanes's first plane move: direction: U change: false shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SWD change: false shoot: false
+
+
+ROUND 10
+
+DumbPlanes's first plane: x: 0 y: 9 z: 9 direction: U cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 8 y: 1 z: 5 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: SEU change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: D change: false shoot: false
+
+
+ROUND 11
+
+DumbPlanes's first plane: x: 1 y: 10 z: 10 direction: U cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 8 y: 1 z: 4 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: NWU change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SD change: true shoot: true
+
+
+ROUND 12
+
+DumbPlanes's first plane: x: 0 y: 9 z: 11 direction: NWU cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 9 y: 1 z: 3 direction: SD cool down: 1
+
+
+DumbPlanes's first plane move: direction: W change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: WD change: true shoot: false
+
+
+ROUND 13
+
+DumbPlanes's first plane: x: 0 y: 8 z: 11 direction: W cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 9 y: 0 z: 2 direction: WD cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: D change: true shoot: true
+
+
+ROUND 14
+
+DumbPlanes's first plane: x: 1 y: 7 z: 10 direction: SWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 9 y: 0 z: 1 direction: D cool down: 1
+
+
+DumbPlanes's first plane move: direction: SW change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: ND change: false shoot: false
+
+
+ROUND 15
+
+DumbPlanes's first plane: x: 2 y: 6 z: 10 direction: SW cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 8 y: 0 z: 0 direction: D cool down: 0
+
+
+DumbPlanes's first plane move: direction: S change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: WD change: true shoot: true
+
+
+DumbPlanes's first plane: x: 3 y: 6 z: 10 direction: SW cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: dead
 
 
 And that's it, DumbPlanes is out of planes, DumbPlanes Wins
@@ -839,67 +1259,129 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: S change: true shoot: false
+DumbPlanes's first plane move: direction: SU change: false shoot: true
 
 DumbPlanes's second plane move: direction: SE change: true shoot: false
 
-DumbPlanes's first plane move: direction: ND change: false shoot: true
+DumbPlanes's first plane move: direction: NE change: false shoot: true
 
-DumbPlanes's second plane move: direction: NU change: true shoot: true
+DumbPlanes's second plane move: direction: NED change: true shoot: true
 
 
 ROUND 2
 
-DumbPlanes's first plane: x: 1 y: 5 z: 0 direction: S cool down: 0
+DumbPlanes's first plane: x: 1 y: 5 z: 1 direction: S cool down: 1
 
 DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: SE cool down: 0
 
-DumbPlanes's first plane: x: 12 y: 8 z: 12 direction: N cool down: 1
+DumbPlanes's first plane: x: 12 y: 9 z: 13 direction: N cool down: 1
 
-DumbPlanes's second plane: dead
-
-
-DumbPlanes's first plane move: direction: S change: false shoot: true
-
-DumbPlanes's second plane move: direction: SU change: true shoot: true
-
-DumbPlanes's first plane move: direction: NWU change: true shoot: false
-
-DumbPlanes's second plane move: direction: N change: false shoot: false
-
-
-ROUND 3
-
-DumbPlanes's first plane: x: 2 y: 5 z: 0 direction: S cool down: 1
-
-DumbPlanes's second plane: x: 2 y: 9 z: 1 direction: SU cool down: 1
-
-DumbPlanes's first plane: x: 11 y: 7 z: 13 direction: NWU cool down: 0
-
-DumbPlanes's second plane: dead
+DumbPlanes's second plane: x: 12 y: 6 z: 12 direction: NED cool down: 1
 
 
 DumbPlanes's first plane move: direction: SE change: false shoot: false
 
-DumbPlanes's second plane move: direction: SU change: false shoot: false
+DumbPlanes's second plane move: direction: EU change: false shoot: false
 
-DumbPlanes's first plane move: direction: U change: false shoot: true
+DumbPlanes's first plane move: direction: NW change: false shoot: false
+
+DumbPlanes's second plane move: direction: ND change: false shoot: false
+
+
+ROUND 3
+
+DumbPlanes's first plane: x: 2 y: 6 z: 1 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 1 y: 10 z: 1 direction: SE cool down: 0
+
+DumbPlanes's first plane: x: 11 y: 8 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 6 z: 11 direction: NED cool down: 0
+
+
+DumbPlanes's first plane move: direction: S change: false shoot: true
+
+DumbPlanes's second plane move: direction: S change: false shoot: true
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: true
+
+DumbPlanes's second plane move: direction: ND change: true shoot: false
+
+
+ROUND 4
+
+DumbPlanes's first plane: x: 3 y: 6 z: 1 direction: S cool down: 1
+
+DumbPlanes's second plane: x: 2 y: 10 z: 1 direction: SE cool down: 1
+
+DumbPlanes's first plane: x: 10 y: 7 z: 12 direction: NWD cool down: 1
+
+DumbPlanes's second plane: x: 10 y: 6 z: 10 direction: ND cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: SD change: false shoot: false
+
+DumbPlanes's first plane move: direction: D change: true shoot: false
+
+DumbPlanes's second plane move: direction: NWD change: false shoot: true
+
+
+ROUND 5
+
+DumbPlanes's first plane: x: 4 y: 5 z: 0 direction: SWD cool down: 0
+
+DumbPlanes's second plane: x: 3 y: 10 z: 0 direction: SE cool down: 0
+
+DumbPlanes's first plane: x: 10 y: 7 z: 11 direction: D cool down: 0
+
+DumbPlanes's second plane: x: 9 y: 5 z: 9 direction: ND cool down: 1
+
+
+DumbPlanes's first plane move: direction: SW change: true shoot: true
+
+DumbPlanes's second plane move: direction: SE change: true shoot: true
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+Someone got shot!!!!
+
+
+ROUND 6
+
+DumbPlanes's first plane: x: 5 y: 4 z: 0 direction: SW cool down: 1
+
+DumbPlanes's second plane: x: 4 y: 11 z: 0 direction: SE cool down: 1
+
+DumbPlanes's first plane: x: 9 y: 6 z: 10 direction: NWD cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: SED change: false shoot: false
+
+DumbPlanes's first plane move: direction: ND change: true shoot: false
 
 DumbPlanes's second plane move: direction: N change: false shoot: false
 
 
-DumbPlanes's first plane: x: 3 y: 6 z: 0 direction: S cool down: 0
-
-DumbPlanes's second plane: x: 3 y: 9 z: 2 direction: SU cool down: 0
-
 DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 8 y: 6 z: 9 direction: ND cool down: 0
 
 DumbPlanes's second plane: dead
 
 
 And that's it, DumbPlanes is out of planes, DumbPlanes Wins
 
-SCORE: DumbPlanes: 3 DumbPlanes: 2
+SCORE: DumbPlanes: 2 DumbPlanes: 3
 
 
 FIGHT 6
@@ -918,47 +1400,247 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SD change: false shoot: false
+DumbPlanes's first plane move: direction: SE change: true shoot: true
 
-DumbPlanes's second plane move: direction: S change: false shoot: true
+DumbPlanes's second plane move: direction: SU change: true shoot: true
 
-DumbPlanes's first plane move: direction: NWD change: true shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: true
 
-DumbPlanes's second plane move: direction: NE change: false shoot: true
+DumbPlanes's second plane move: direction: N change: true shoot: true
 
 
 ROUND 2
 
+DumbPlanes's first plane: x: 1 y: 6 z: 0 direction: SE cool down: 1
+
+DumbPlanes's second plane: x: 1 y: 8 z: 1 direction: SU cool down: 1
+
+DumbPlanes's first plane: x: 12 y: 8 z: 13 direction: N cool down: 1
+
+DumbPlanes's second plane: x: 12 y: 5 z: 13 direction: N cool down: 1
+
+
+DumbPlanes's first plane move: direction: E change: false shoot: false
+
+DumbPlanes's second plane move: direction: S change: false shoot: false
+
+DumbPlanes's first plane move: direction: NE change: false shoot: false
+
+DumbPlanes's second plane move: direction: NE change: true shoot: false
+
+
+ROUND 3
+
+DumbPlanes's first plane: x: 1 y: 7 z: 0 direction: SE cool down: 0
+
+DumbPlanes's second plane: x: 2 y: 8 z: 1 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 11 y: 9 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 6 z: 13 direction: NE cool down: 0
+
+
+DumbPlanes's first plane move: direction: SD change: false shoot: true
+
+DumbPlanes's second plane move: direction: EU change: false shoot: false
+
+DumbPlanes's first plane move: direction: NED change: true shoot: true
+
+DumbPlanes's second plane move: direction: NEU change: true shoot: false
+
+
+ROUND 4
+
 DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 1 y: 8 z: 0 direction: S cool down: 1
+DumbPlanes's second plane: x: 2 y: 9 z: 2 direction: SU cool down: 0
 
-DumbPlanes's first plane: x: 12 y: 7 z: 12 direction: NWD cool down: 1
+DumbPlanes's first plane: x: 10 y: 10 z: 12 direction: NED cool down: 1
 
-DumbPlanes's second plane: x: 12 y: 6 z: 13 direction: N cool down: 1
+DumbPlanes's second plane: dead
 
 
 DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: SWD change: false shoot: false
+DumbPlanes's second plane move: direction: WU change: true shoot: true
+
+DumbPlanes's first plane move: direction: D change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 2 y: 8 z: 3 direction: WU cool down: 1
+
+DumbPlanes's first plane: x: 10 y: 10 z: 11 direction: NED cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SU change: false shoot: false
+
+DumbPlanes's first plane move: direction: ND change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 6
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 8 z: 4 direction: WU cool down: 0
+
+DumbPlanes's first plane: x: 9 y: 10 z: 10 direction: ND cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: SW change: false shoot: true
+
+DumbPlanes's first plane move: direction: NWD change: false shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 7
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 4 y: 7 z: 4 direction: WU cool down: 1
+
+DumbPlanes's first plane: x: 8 y: 9 z: 9 direction: ND cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NU change: false shoot: false
+
+DumbPlanes's first plane move: direction: NWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 8
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 7 z: 5 direction: WU cool down: 0
+
+DumbPlanes's first plane: x: 7 y: 8 z: 8 direction: ND cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: WU change: true shoot: true
+
+DumbPlanes's first plane move: direction: WD change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 9
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 3 y: 6 z: 6 direction: WU cool down: 1
+
+DumbPlanes's first plane: x: 7 y: 7 z: 7 direction: WD cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NW change: true shoot: false
+
+DumbPlanes's first plane move: direction: D change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 10
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 2 y: 5 z: 6 direction: NW cool down: 0
+
+DumbPlanes's first plane: x: 7 y: 7 z: 6 direction: WD cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NWD change: true shoot: false
+
+DumbPlanes's first plane move: direction: W change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 11
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 1 y: 4 z: 5 direction: NWD cool down: 0
+
+DumbPlanes's first plane: x: 7 y: 6 z: 6 direction: W cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: true
+
+DumbPlanes's first plane move: direction: SWU change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 12
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 0 y: 4 z: 5 direction: N cool down: 1
+
+DumbPlanes's first plane: x: 8 y: 5 z: 7 direction: SWU cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NEU change: true shoot: false
 
 DumbPlanes's first plane move: direction: W change: false shoot: false
 
-DumbPlanes's second plane move: direction: NE change: false shoot: false
+DumbPlanes's second plane move: direction: N change: false shoot: false
 
 
 DumbPlanes's first plane: dead
 
 DumbPlanes's second plane: dead
 
-DumbPlanes's first plane: x: 12 y: 6 z: 12 direction: NWD cool down: 0
+DumbPlanes's first plane: x: 8 y: 4 z: 7 direction: SWU cool down: 0
 
-DumbPlanes's second plane: x: 11 y: 7 z: 13 direction: N cool down: 0
+DumbPlanes's second plane: dead
 
 
 And that's it, DumbPlanes is out of planes, DumbPlanes Wins
 
-SCORE: DumbPlanes: 3 DumbPlanes: 3
+SCORE: DumbPlanes: 2 DumbPlanes: 4
 
 
 FIGHT 7
@@ -977,162 +1659,776 @@ DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
 DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
 
 
-DumbPlanes's first plane move: direction: SEU change: true shoot: true
+DumbPlanes's first plane move: direction: SWU change: true shoot: true
 
-DumbPlanes's second plane move: direction: SE change: false shoot: true
+DumbPlanes's second plane move: direction: SW change: true shoot: true
 
-DumbPlanes's first plane move: direction: NED change: false shoot: true
+DumbPlanes's first plane move: direction: NU change: true shoot: true
 
-DumbPlanes's second plane move: direction: N change: false shoot: true
+DumbPlanes's second plane move: direction: NE change: false shoot: true
 
 
 ROUND 2
 
-DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: SEU cool down: 1
+DumbPlanes's first plane: x: 1 y: 4 z: 1 direction: SWU cool down: 1
 
-DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: S cool down: 1
+DumbPlanes's second plane: x: 1 y: 7 z: 0 direction: SW cool down: 1
 
-DumbPlanes's first plane: x: 12 y: 9 z: 12 direction: N cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 12 y: 5 z: 13 direction: N cool down: 1
+DumbPlanes's second plane: x: 12 y: 6 z: 13 direction: N cool down: 1
 
 
-DumbPlanes's first plane move: direction: EU change: true shoot: false
+DumbPlanes's first plane move: direction: WU change: true shoot: false
 
-DumbPlanes's second plane move: direction: SEU change: true shoot: false
+DumbPlanes's second plane move: direction: SWD change: true shoot: false
 
-DumbPlanes's first plane move: direction: NWU change: false shoot: false
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
 DumbPlanes's second plane move: direction: NWD change: true shoot: false
 
 
 ROUND 3
 
-DumbPlanes's first plane: x: 1 y: 7 z: 2 direction: EU cool down: 0
+DumbPlanes's first plane: x: 1 y: 3 z: 2 direction: WU cool down: 0
 
-DumbPlanes's second plane: x: 2 y: 10 z: 1 direction: SEU cool down: 0
+DumbPlanes's second plane: dead
 
-DumbPlanes's first plane: x: 11 y: 8 z: 13 direction: N cool down: 0
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 11 y: 4 z: 12 direction: NWD cool down: 0
+DumbPlanes's second plane: x: 11 y: 5 z: 12 direction: NWD cool down: 0
 
 
-DumbPlanes's first plane move: direction: SE change: false shoot: false
+DumbPlanes's first plane move: direction: NU change: true shoot: true
 
-DumbPlanes's second plane move: direction: EU change: true shoot: false
+DumbPlanes's second plane move: direction: N change: false shoot: false
 
-DumbPlanes's first plane move: direction: NW change: true shoot: true
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane move: direction: NWD change: true shoot: true
+DumbPlanes's second plane move: direction: W change: true shoot: true
 
 
 ROUND 4
 
-DumbPlanes's first plane: x: 2 y: 8 z: 2 direction: EU cool down: 0
+DumbPlanes's first plane: x: 0 y: 3 z: 3 direction: NU cool down: 1
 
-DumbPlanes's second plane: x: 2 y: 11 z: 2 direction: EU cool down: 0
+DumbPlanes's second plane: dead
 
-DumbPlanes's first plane: x: 10 y: 7 z: 13 direction: NW cool down: 1
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane: x: 10 y: 3 z: 11 direction: NWD cool down: 1
-
-
-DumbPlanes's first plane move: direction: SE change: true shoot: false
-
-DumbPlanes's second plane move: direction: NU change: true shoot: false
-
-DumbPlanes's first plane move: direction: WD change: false shoot: false
-
-DumbPlanes's second plane move: direction: ND change: true shoot: false
+DumbPlanes's second plane: x: 11 y: 4 z: 12 direction: W cool down: 1
 
 
-ROUND 5
+DumbPlanes's first plane move: direction: NW change: false shoot: false
 
-DumbPlanes's first plane: x: 3 y: 9 z: 2 direction: SE cool down: 0
+DumbPlanes's second plane move: direction: N change: false shoot: false
 
-DumbPlanes's second plane: x: 1 y: 11 z: 3 direction: NU cool down: 0
+DumbPlanes's first plane move: direction: N change: false shoot: false
 
-DumbPlanes's first plane: x: 10 y: 6 z: 12 direction: NW cool down: 0
-
-DumbPlanes's second plane: x: 9 y: 3 z: 10 direction: ND cool down: 0
+DumbPlanes's second plane move: direction: NWD change: false shoot: false
 
 
-DumbPlanes's first plane move: direction: SU change: true shoot: false
+DumbPlanes's first plane: dead
 
-DumbPlanes's second plane move: direction: NEU change: true shoot: true
+DumbPlanes's second plane: dead
 
-DumbPlanes's first plane move: direction: ND change: true shoot: false
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 10 y: 3 z: 11 direction: W cool down: 0
+
+
+And that's it, DumbPlanes is out of planes, DumbPlanes Wins
+
+SCORE: DumbPlanes: 2 DumbPlanes: 5
+
+
+FIGHT 8
+
+The fight between DumbPlanes and DumbPlanes begins and will go on for 100 rounds.
+
+
+ROUND 1
+
+DumbPlanes's first plane: x: 0 y: 5 z: 0 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 0 y: 8 z: 0 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: SEU change: false shoot: true
+
+DumbPlanes's second plane move: direction: SWU change: false shoot: true
+
+DumbPlanes's first plane move: direction: N change: true shoot: true
 
 DumbPlanes's second plane move: direction: N change: true shoot: true
 
 
-ROUND 6
+ROUND 2
 
-DumbPlanes's first plane: x: 4 y: 9 z: 3 direction: SU cool down: 0
+DumbPlanes's first plane: x: 1 y: 6 z: 1 direction: S cool down: 1
 
-DumbPlanes's second plane: x: 0 y: 12 z: 4 direction: NEU cool down: 1
+DumbPlanes's second plane: x: 1 y: 7 z: 1 direction: S cool down: 1
 
-DumbPlanes's first plane: x: 9 y: 6 z: 11 direction: ND cool down: 0
+DumbPlanes's first plane: x: 12 y: 8 z: 13 direction: N cool down: 1
 
-DumbPlanes's second plane: x: 8 y: 3 z: 10 direction: N cool down: 1
-
-
-DumbPlanes's first plane move: direction: SWU change: true shoot: true
-
-DumbPlanes's second plane move: direction: NEU change: true shoot: false
-
-DumbPlanes's first plane move: direction: WD change: false shoot: true
-
-DumbPlanes's second plane move: direction: NU change: false shoot: false
+DumbPlanes's second plane: x: 12 y: 5 z: 13 direction: N cool down: 1
 
 
-ROUND 7
+DumbPlanes's first plane move: direction: SWD change: false shoot: false
 
-DumbPlanes's first plane: x: 5 y: 8 z: 4 direction: SWU cool down: 1
+DumbPlanes's second plane move: direction: SED change: true shoot: false
 
-DumbPlanes's second plane: dead
+DumbPlanes's first plane move: direction: ND change: false shoot: false
 
-DumbPlanes's first plane: x: 9 y: 5 z: 10 direction: ND cool down: 1
-
-DumbPlanes's second plane: x: 7 y: 3 z: 11 direction: N cool down: 0
+DumbPlanes's second plane move: direction: NW change: false shoot: false
 
 
-DumbPlanes's first plane move: direction: SW change: false shoot: false
+ROUND 3
 
-DumbPlanes's second plane move: direction: N change: false shoot: false
+DumbPlanes's first plane: x: 2 y: 5 z: 0 direction: S cool down: 0
 
-DumbPlanes's first plane move: direction: NE change: true shoot: false
+DumbPlanes's second plane: x: 2 y: 8 z: 0 direction: SED cool down: 0
 
-DumbPlanes's second plane move: direction: N change: false shoot: true
+DumbPlanes's first plane: x: 11 y: 8 z: 12 direction: N cool down: 0
 
-
-ROUND 8
-
-DumbPlanes's first plane: x: 6 y: 7 z: 4 direction: SWU cool down: 0
-
-DumbPlanes's second plane: dead
-
-DumbPlanes's first plane: x: 8 y: 6 z: 10 direction: NE cool down: 0
-
-DumbPlanes's second plane: x: 6 y: 3 z: 11 direction: N cool down: 1
+DumbPlanes's second plane: x: 11 y: 4 z: 13 direction: N cool down: 0
 
 
 DumbPlanes's first plane move: direction: SU change: true shoot: true
 
+DumbPlanes's second plane move: direction: SED change: true shoot: true
+
+DumbPlanes's first plane move: direction: NEU change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: true
+
+
+ROUND 4
+
+DumbPlanes's first plane: x: 3 y: 5 z: 1 direction: SU cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 10 y: 9 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 10 y: 4 z: 13 direction: N cool down: 1
+
+
+DumbPlanes's first plane move: direction: SWU change: false shoot: false
+
 DumbPlanes's second plane move: direction: N change: false shoot: false
 
-DumbPlanes's first plane move: direction: N change: true shoot: true
+DumbPlanes's first plane move: direction: NW change: true shoot: true
 
-DumbPlanes's second plane move: direction: NWU change: true shoot: false
+DumbPlanes's second plane move: direction: NED change: true shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: x: 4 y: 4 z: 2 direction: SU cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 9 y: 8 z: 13 direction: NW cool down: 1
+
+DumbPlanes's second plane: x: 9 y: 5 z: 12 direction: NED cool down: 0
+
+
+DumbPlanes's first plane move: direction: S change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: ND change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: true shoot: false
+
+
+ROUND 6
+
+DumbPlanes's first plane: x: 5 y: 4 z: 2 direction: S cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 8 y: 8 z: 12 direction: ND cool down: 0
+
+DumbPlanes's second plane: x: 8 y: 5 z: 12 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWD change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: WD change: false shoot: true
+
+DumbPlanes's second plane move: direction: NU change: true shoot: true
+
+
+ROUND 7
+
+DumbPlanes's first plane: x: 6 y: 3 z: 1 direction: SWD cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 8 y: 7 z: 11 direction: ND cool down: 1
+
+DumbPlanes's second plane: x: 7 y: 5 z: 13 direction: NU cool down: 1
+
+
+DumbPlanes's first plane move: direction: SD change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: NE change: false shoot: false
+
+DumbPlanes's second plane move: direction: WU change: false shoot: false
+
+
+ROUND 8
+
+DumbPlanes's first plane: x: 7 y: 3 z: 0 direction: SWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 7 y: 8 z: 11 direction: ND cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: N change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 6 y: 8 z: 11 direction: N cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+And that's it, DumbPlanes is out of planes, DumbPlanes Wins
+
+SCORE: DumbPlanes: 2 DumbPlanes: 6
+
+
+FIGHT 9
+
+The fight between DumbPlanes and DumbPlanes begins and will go on for 100 rounds.
+
+
+ROUND 1
+
+DumbPlanes's first plane: x: 0 y: 5 z: 0 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 0 y: 8 z: 0 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: SWU change: true shoot: true
+
+DumbPlanes's second plane move: direction: SU change: false shoot: false
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: NWU change: true shoot: true
+
+
+ROUND 2
+
+DumbPlanes's first plane: x: 1 y: 4 z: 1 direction: SWU cool down: 1
+
+DumbPlanes's second plane: x: 1 y: 8 z: 1 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 7 z: 12 direction: NWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: WU change: false shoot: false
+
+DumbPlanes's second plane move: direction: SU change: false shoot: true
+
+DumbPlanes's first plane move: direction: NW change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 3
+
+DumbPlanes's first plane: x: 1 y: 3 z: 2 direction: SWU cool down: 0
+
+DumbPlanes's second plane: x: 2 y: 8 z: 2 direction: S cool down: 1
+
+DumbPlanes's first plane: x: 11 y: 6 z: 12 direction: NW cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: U change: false shoot: true
+
+DumbPlanes's second plane move: direction: SU change: true shoot: false
+
+DumbPlanes's first plane move: direction: NW change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 4
+
+DumbPlanes's first plane: x: 1 y: 3 z: 3 direction: SWU cool down: 1
+
+DumbPlanes's second plane: x: 3 y: 8 z: 3 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 10 y: 5 z: 12 direction: NW cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SWU change: false shoot: false
+
+DumbPlanes's second plane move: direction: SEU change: false shoot: true
+
+DumbPlanes's first plane move: direction: ND change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: x: 2 y: 2 z: 4 direction: SWU cool down: 0
+
+DumbPlanes's second plane: x: 4 y: 9 z: 4 direction: SU cool down: 1
+
+DumbPlanes's first plane: x: 9 y: 5 z: 11 direction: ND cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: S change: true shoot: true
+
+DumbPlanes's second plane move: direction: SE change: false shoot: false
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 6
+
+DumbPlanes's first plane: x: 3 y: 2 z: 4 direction: S cool down: 1
+
+DumbPlanes's second plane: x: 5 y: 10 z: 4 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 8 y: 4 z: 10 direction: NWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: S change: true shoot: true
+
+DumbPlanes's first plane move: direction: NW change: false shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 7
+
+DumbPlanes's first plane: x: 4 y: 1 z: 3 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 6 y: 10 z: 4 direction: S cool down: 1
+
+DumbPlanes's first plane: x: 7 y: 3 z: 10 direction: NWD cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SU change: false shoot: false
+
+DumbPlanes's second plane move: direction: S change: false shoot: false
+
+DumbPlanes's first plane move: direction: ND change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 8
+
+DumbPlanes's first plane: x: 5 y: 1 z: 4 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 7 y: 10 z: 4 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 6 y: 3 z: 9 direction: NWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: S change: false shoot: false
+
+DumbPlanes's second plane move: direction: SEU change: true shoot: true
+
+DumbPlanes's first plane move: direction: NW change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
 
 
 ROUND 9
 
-DumbPlanes's first plane: x: 7 y: 7 z: 5 direction: SU cool down: 1
+DumbPlanes's first plane: x: 6 y: 1 z: 4 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 8 y: 11 z: 5 direction: SEU cool down: 1
+
+DumbPlanes's first plane: x: 5 y: 2 z: 9 direction: NW cool down: 1
 
 DumbPlanes's second plane: dead
 
-DumbPlanes's first plane: x: 7 y: 6 z: 10 direction: N cool down: 1
 
-DumbPlanes's second plane: x: 5 y: 2 z: 12 direction: NWU cool down: 0
+DumbPlanes's first plane move: direction: SE change: true shoot: true
 
+DumbPlanes's second plane move: direction: SEU change: false shoot: false
+
+DumbPlanes's first plane move: direction: NWD change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 10
+
+DumbPlanes's first plane: x: 7 y: 2 z: 4 direction: SE cool down: 1
+
+DumbPlanes's second plane: x: 9 y: 12 z: 6 direction: SEU cool down: 0
+
+DumbPlanes's first plane: x: 4 y: 1 z: 8 direction: NWD cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SED change: false shoot: false
+
+DumbPlanes's second plane move: direction: SE change: false shoot: true
+
+DumbPlanes's first plane move: direction: D change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 11
+
+DumbPlanes's first plane: x: 8 y: 3 z: 3 direction: SE cool down: 0
+
+DumbPlanes's second plane: x: 10 y: 13 z: 6 direction: SEU cool down: 1
+
+DumbPlanes's first plane: x: 4 y: 1 z: 7 direction: D cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: E change: false shoot: true
+
+DumbPlanes's second plane move: direction: U change: true shoot: false
+
+DumbPlanes's first plane move: direction: SED change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 12
+
+DumbPlanes's first plane: x: 8 y: 4 z: 3 direction: SE cool down: 1
+
+DumbPlanes's second plane: x: 10 y: 13 z: 7 direction: U cool down: 0
+
+DumbPlanes's first plane: x: 5 y: 2 z: 6 direction: SED cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: S change: true shoot: false
+
+DumbPlanes's second plane move: direction: U change: false shoot: false
+
+DumbPlanes's first plane move: direction: ED change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 13
+
+DumbPlanes's first plane: x: 9 y: 4 z: 3 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 10 y: 13 z: 8 direction: U cool down: 0
+
+DumbPlanes's first plane: x: 5 y: 3 z: 5 direction: ED cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SD change: true shoot: true
+
+DumbPlanes's second plane move: direction: SU change: true shoot: true
+
+DumbPlanes's first plane move: direction: SED change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 14
+
+DumbPlanes's first plane: x: 10 y: 4 z: 2 direction: SD cool down: 1
+
+DumbPlanes's second plane: x: 11 y: 13 z: 9 direction: SU cool down: 1
+
+DumbPlanes's first plane: x: 6 y: 4 z: 4 direction: SED cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: SED change: false shoot: false
+
+DumbPlanes's second plane move: direction: U change: false shoot: false
+
+DumbPlanes's first plane move: direction: E change: true shoot: true
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 15
+
+DumbPlanes's first plane: x: 11 y: 5 z: 1 direction: SD cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 13 z: 10 direction: SU cool down: 0
+
+DumbPlanes's first plane: x: 6 y: 5 z: 4 direction: E cool down: 1
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: ED change: false shoot: true
+
+DumbPlanes's second plane move: direction: SEU change: true shoot: true
+
+DumbPlanes's first plane move: direction: SED change: false shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+ROUND 16
+
+DumbPlanes's first plane: x: 11 y: 6 z: 0 direction: SD cool down: 1
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 7 y: 6 z: 3 direction: E cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+DumbPlanes's first plane move: direction: D change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+DumbPlanes's first plane move: direction: SE change: true shoot: false
+
+DumbPlanes's second plane move: direction: N change: false shoot: false
+
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 8 y: 7 z: 3 direction: SE cool down: 0
+
+DumbPlanes's second plane: dead
+
+
+And that's it, DumbPlanes is out of planes, DumbPlanes Wins
+
+SCORE: DumbPlanes: 2 DumbPlanes: 7
+
+
+FIGHT 10
+
+The fight between DumbPlanes and DumbPlanes begins and will go on for 100 rounds.
+
+
+ROUND 1
+
+DumbPlanes's first plane: x: 0 y: 5 z: 0 direction: S cool down: 0
+
+DumbPlanes's second plane: x: 0 y: 8 z: 0 direction: S cool down: 0
+
+DumbPlanes's first plane: x: 13 y: 8 z: 13 direction: N cool down: 0
+
+DumbPlanes's second plane: x: 13 y: 5 z: 13 direction: N cool down: 0
+
+
+DumbPlanes's first plane move: direction: SW change: true shoot: false
+
+DumbPlanes's second plane move: direction: SE change: true shoot: true
+
+DumbPlanes's first plane move: direction: ND change: true shoot: true
+
+DumbPlanes's second plane move: direction: NWD change: true shoot: true
+
+
+ROUND 2
+
+DumbPlanes's first plane: x: 1 y: 4 z: 0 direction: SW cool down: 0
+
+DumbPlanes's second plane: x: 1 y: 9 z: 0 direction: SE cool down: 1
+
+DumbPlanes's first plane: x: 12 y: 8 z: 12 direction: ND cool down: 1
+
+DumbPlanes's second plane: x: 12 y: 4 z: 12 direction: NWD cool down: 1
+
+
+DumbPlanes's first plane move: direction: WU change: false shoot: true
+
+DumbPlanes's second plane move: direction: EU change: true shoot: false
+
+DumbPlanes's first plane move: direction: D change: true shoot: false
+
+DumbPlanes's second plane move: direction: W change: false shoot: false
+
+
+ROUND 3
+
+DumbPlanes's first plane: x: 1 y: 3 z: 1 direction: SW cool down: 1
+
+DumbPlanes's second plane: x: 1 y: 10 z: 1 direction: EU cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 8 z: 11 direction: D cool down: 0
+
+DumbPlanes's second plane: x: 12 y: 3 z: 12 direction: NWD cool down: 0
+
+
+DumbPlanes's first plane move: direction: W change: true shoot: false
+
+DumbPlanes's second plane move: direction: U change: false shoot: false
+
+DumbPlanes's first plane move: direction: ED change: false shoot: true
+
+DumbPlanes's second plane move: direction: NW change: false shoot: true
+
+
+ROUND 4
+
+DumbPlanes's first plane: x: 1 y: 2 z: 1 direction: W cool down: 0
+
+DumbPlanes's second plane: x: 1 y: 10 z: 2 direction: EU cool down: 0
+
+DumbPlanes's first plane: x: 12 y: 9 z: 10 direction: D cool down: 1
+
+DumbPlanes's second plane: x: 11 y: 2 z: 12 direction: NWD cool down: 1
+
+
+DumbPlanes's first plane move: direction: WD change: false shoot: true
+
+DumbPlanes's second plane move: direction: EU change: true shoot: false
+
+DumbPlanes's first plane move: direction: NWD change: false shoot: false
+
+DumbPlanes's second plane move: direction: WD change: false shoot: false
+
+
+ROUND 5
+
+DumbPlanes's first plane: x: 1 y: 1 z: 0 direction: W cool down: 1
+
+DumbPlanes's second plane: x: 1 y: 11 z: 3 direction: EU cool down: 0
+
+DumbPlanes's first plane: x: 11 y: 8 z: 9 direction: D cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 1 z: 11 direction: NWD cool down: 0
+
+
+DumbPlanes's first plane move: direction: NW change: true shoot: false
+
+DumbPlanes's second plane move: direction: EU change: true shoot: true
+
+DumbPlanes's first plane move: direction: WD change: true shoot: true
+
+DumbPlanes's second plane move: direction: D change: false shoot: false
+
+
+ROUND 6
+
+DumbPlanes's first plane: x: 0 y: 0 z: 0 direction: NW cool down: 0
+
+DumbPlanes's second plane: x: 1 y: 12 z: 4 direction: EU cool down: 1
+
+DumbPlanes's first plane: x: 11 y: 7 z: 8 direction: WD cool down: 1
+
+DumbPlanes's second plane: x: 11 y: 1 z: 10 direction: NWD cool down: 0
+
+
+DumbPlanes's first plane move: direction: NU change: true shoot: true
+
+DumbPlanes's second plane move: direction: NE change: true shoot: false
+
+DumbPlanes's first plane move: direction: W change: true shoot: false
+
+DumbPlanes's second plane move: direction: W change: false shoot: true
+
+
+ROUND 7
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: x: 0 y: 13 z: 4 direction: NE cool down: 0
+
+DumbPlanes's first plane: x: 11 y: 6 z: 8 direction: W cool down: 0
+
+DumbPlanes's second plane: x: 11 y: 0 z: 10 direction: NWD cool down: 1
+
+
+DumbPlanes's first plane move: direction: N change: false shoot: false
+
+DumbPlanes's second plane move: direction: NED change: true shoot: false
+
+DumbPlanes's first plane move: direction: SWU change: true shoot: true
+
+DumbPlanes's second plane move: direction: ND change: true shoot: false
+
+
+DumbPlanes's first plane: dead
+
+DumbPlanes's second plane: dead
+
+DumbPlanes's first plane: x: 12 y: 5 z: 9 direction: SWU cool down: 1
+
+DumbPlanes's second plane: x: 10 y: 0 z: 9 direction: ND cool down: 0
+
+
+And that's it, DumbPlanes is out of planes, DumbPlanes Wins
+
+SCORE: DumbPlanes: 2 DumbPlanes: 8
+
+DumbPlanes WINS!!!
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SCORES:
+
+DumbPlanes: 0 points.
+DumbPlanes: 2 points.
+
+
+THE OVERALL WINNER(S): DumbPlanes
+With 2 points.

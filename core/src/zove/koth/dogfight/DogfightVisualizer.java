@@ -1,7 +1,10 @@
 package zove.koth.dogfight;
 
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
 import java.util.Iterator;
 
+import Planes.Controller;
 import Planes.Direction;
 import Planes.Plane;
 import Planes.PlaneControl;
@@ -62,10 +65,10 @@ public class DogfightVisualizer extends ApplicationAdapter {
 	SpriteBatch hudRenderer, tagRenderer;
 	BitmapFont font;
 
-	public static String log = "Dogfight Log - Hit start to start or step " +
-			"to simulate one step at a time\nHit 1, 2, or 3 for side views" +
-			"\nLeft click and drag to translate\nMiddle click and drag to rotate\nScroll to zoom" +
-			"\n\nContestants:\n";
+	public static String log = "Dogfight Log - Hit start to start or step "
+			+ "to simulate one step at a time\nHit 1, 2, or 3 for side views"
+			+ "\nLeft click and drag to translate\nMiddle click and drag to rotate\nScroll to zoom"
+			+ "\n\nContestants:\n";
 	static int totalMatchups = 0;
 	static int currentMatchup = 1;
 	static DogfightVisualizer INSTANCE;
@@ -103,6 +106,15 @@ public class DogfightVisualizer extends ApplicationAdapter {
 			Thread.sleep(steps * sleepStep);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
+		}
+	}
+
+	public static void enterClasses(Class<?>[] classes) throws NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
+		Controller.entries = new PlaneControl[classes.length];
+		for (int i = 0; i < classes.length; i++) {
+			Constructor<?> c = classes[i].getDeclaredConstructor(new Class[]{int.class, int.class});
+			Object o = c.newInstance(Controller.ARENA_SIZE, Controller.ROUNDS);
+			Controller.entries[i] = (PlaneControl) o;
 		}
 	}
 

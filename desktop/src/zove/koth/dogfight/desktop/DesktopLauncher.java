@@ -1,7 +1,9 @@
 package zove.koth.dogfight.desktop;
 
-import zove.koth.dogfight.DogfightVisualizer;
+import java.lang.reflect.InvocationTargetException;
+import java.util.ArrayList;
 
+import zove.koth.dogfight.DogfightVisualizer;
 import Planes.Controller;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
@@ -19,14 +21,25 @@ public class DesktopLauncher {
 	 * 
 	 * @param args
 	 *            The args
+	 * @throws InvocationTargetException 
+	 * @throws IllegalArgumentException 
+	 * @throws IllegalAccessException 
+	 * @throws InstantiationException 
+	 * @throws SecurityException 
+	 * @throws NoSuchMethodException 
 	 */
-	public static void main(String... args) {
-		if (args.length >= 1) {
-			try {
-				int i = Integer.parseInt(args[0]);
-				DogfightVisualizer.sleepStep = i;
-			} catch (Exception e) {
+	public static void main(String... args) throws NoSuchMethodException, SecurityException, InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException {
+		if (args.length > 0) {
+			ArrayList<Class<?>> classes = new ArrayList<>();
+			for (int i = 0; i < args.length; i++) {
+				try {
+					Class<?> klazz = Class.forName(args[i]);
+					classes.add(klazz);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
 			}
+			DogfightVisualizer.enterClasses(classes.toArray(new Class<?>[classes.size()]));
 		}
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.height = 600;

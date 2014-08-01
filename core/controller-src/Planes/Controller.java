@@ -7,19 +7,16 @@ import zove.koth.dogfight.DogfightVisualizer;
 
 public class Controller {
 
-	private static final int ARENA_SIZE = 14;
-	private static final int ROUNDS = 100;
-	private static final int FIGHTS = 10;
+	public static final int ARENA_SIZE = 14;
+	public static final int ROUNDS = 100;
+	public static final int FIGHTS = 10;
 	public static final int COOLDOWN = 1;
+	
+	public static PlaneControl[] entries = { new DumbPlanes(ARENA_SIZE, ROUNDS),
+			new DumbPlanes(ARENA_SIZE, ROUNDS),
+			new DumbPlanes(ARENA_SIZE, ROUNDS) };
 
 	public static void main(String[] args) {
-		// This is a mock tournament between three DumbPlanes, replace these to
-		// test your own entries.
-		PlaneControl[] entries = { new DumbPlanes(ARENA_SIZE, ROUNDS),
-				new DumbPlanes(ARENA_SIZE, ROUNDS),
-				new DumbPlanes(ARENA_SIZE, ROUNDS) }; // Instances of all
-														// entries!!!
-
 		int[] scores = new int[entries.length];
 
 		for (int i = 0; i < scores.length; i++) {
